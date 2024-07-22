@@ -4,7 +4,7 @@ Name: SUBHRANSU SEKHAR BEURA
 Company: CODTECH IT SOLUTIONS
 ID: CT4WD3516
 Domain: Web Development
-Duration: 25th June to 25th July 2024
+Duration: July 1st to August 1st 2024
 Mentor: Neela Santhosh Kumar
 
 Overview of the Project
@@ -41,3 +41,5 @@ Storing tasks in the browser's local storage so they persist across sessions.
 Adding a priority level to tasks.
 Implementing a search functionality to filter tasks.
 Allowing the user to edit tasks.
+![To-Do-List - Personal - Microsoft​ Edge 7_22_2024 8_30_15 PM](https://github.com/user-attachments/assets/fb7d7346-5756-4dcd-bdeb-f6898635825b)
+
